@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>home</title>
+</head>
+<body>
+
+<h1>Homepage</h1>
+<p>welcome to site<br><br>
+<img src="/storage/emulated/0/img1.jpg">
+</p>
+
+</body>
+</html>
